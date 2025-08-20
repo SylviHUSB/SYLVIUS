@@ -7,8 +7,8 @@
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <author>Sylvius NITIEMA</author>
     <email>sylviusnitiema40@gmail.com</email>
-    <homepage>https://github.com/SylviHUSB/HUSB_PlugIn</homepage>
-    <download_url>https://github.com/SylviHUSB/HUSB_PlugIn/archive/refs/heads/main.zip</download_url>
+    <homepage>https://github.com/SylviHUSB/SYLVIUS</homepage>
+    <download_url>https://github.com/SylviHUSB/SYLVIUS/10 RESPONSABLE DE TEAM.zip</download_url>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
   </pyqgis_plugin>
