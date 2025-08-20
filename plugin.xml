@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="HUSB_PlugIn 10: CONTROLE CHEF D'EQUIPE" version="1.0">
+  <pyqgis_plugin name="HUSB_PlugIn 10: CONTROLE CHEF D'EQUIPE" version="1.0" qgis_minimum_version="3.0" qgis_maximum_version="3.40">
     <description>C'est le plugin réservé aux chefs d'équipes pour des contrôles plus poussés</description>
-    <version>1.0</version>
-    <qgis_minimum_version>3.0</qgis_minimum_version>
-    <homepage>https://github.com/SylviHUSB/SYLVIUS</homepage>
-    <file_name>10 RESPONSABLE DE TEAM.zip</file_name>
-    <author_name>Sylvius NITIEMA</author_name>
-    <download_url>https://URL_ACCESSIBLE_PUBLIQUEMENT/10 RESPONSABLE DE TEAM.zip</download_url>
-    <uploaded_by>SylviusN</uploaded_by>
-    <create_date>2025-08-20</create_date>
+    <author>Sylvius NITIEMA</author>
+    <homepage>https://github.com/SylviHUSB/SYLVIUS/</homepage>
+    <file>packages/10 RESPONSABLE DE TEAM.zip</file>
+    <download_url>https://github.com/SylviHUSB/SYLVIUS/blob/ba22272b3b14ccfd10e57be52d93d095dedbe376/10%20RESPONSABLE%20DE%20TEAM.zip</download_url>
   </pyqgis_plugin>
 </plugins>
