@@ -1,1 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <pyqgis_plugin name="HUSB_PlugIn 10: CONTROLE CHEF D'EQUIPE" version="1.0">
+    <description><![CDATA[C'est le plugIn réservé aux chefs d'équipes pour des controles plus poussés]]></description>
+    <version>1.0</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <author>Sylvius NITIEMA</author>
+    <email>sylviusnitiema40@gmail.com</email>
+    <homepage>https://github.com/SylviHUSB/HUSB_PlugIn</homepage>
+    <download_url>https://github.com/SylviHUSB/HUSB_PlugIn/archive/refs/heads/main.zip</download_url>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+  </pyqgis_plugin>
+</plugins>
 
