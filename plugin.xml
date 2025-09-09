@@ -1,9 +1,14 @@
-<plugins>
-  <pyqgis_plugin name="HUSB_PlugIn 10: CONTROLE CHEF D'EQUIPE" version="1.0" qgis_minimum_version="3.0" qgis_maximum_version="3.40">
-    <description>C'est le plugin réservé aux chefs d'équipes pour des contrôles plus poussés</description>
-    <author>Sylvius NITIEMA</author>
-    <homepage>https://github.com/SylviHUSB/SYLVIUS/</homepage>
-    <file>packages/10 RESPONSABLE DE TEAM.zip</file>
-    <download_url>https://raw.githubusercontent.com/SylviHUSB/SYLVIUS/main/packages/10_RESPONSABLE_DE_TEAM.zip</download_url>
-  </pyqgis_plugin>
-</plugins>
+[general]
+name=HUSB_PlugIn_VERIF_INFRA
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=Plugin QGIS pour détecter les doublons géométriques et les doublons de noms dans toutes les couches
+version=1.0
+author=Sylvius NITIEMA
+email=sylviusnitiema40@gmail.com
+about=Ce plugin contrôle les couches du projet QGIS afin de détecter les entités en doublon (géométrie et attributs NOM).
+category=Vector
+tags=HUSB,doublons,contrôle,infrastructure,validation
+tracker=https://github.com/SylviHUSB/PLUGIN/issues
+repository=https://github.com/SylviHUSB/PLUGIN
+homepage=https://github.com/SylviHUSB/PLUGIN
