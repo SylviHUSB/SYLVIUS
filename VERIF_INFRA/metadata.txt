@@ -1,0 +1,7 @@
+[general]
+name=HUSB_PlugIn_VERIF_INFRA
+qgisMinimumVersion=3.0
+description= C'est le PlugIn pour détecter les doublons géométriques et les doublons de Nom dans toutes les couches 
+version=1.0
+author=Sylvius NITIEMA
+email=sylviusnitiema40@gmail.com
